@@ -1,0 +1,16 @@
+Geometría de las transformaciones
+
+Una reflexión respecto a un eje seguida por otra reflexión respecto a un segundo eje paralelo al primero da como
+resultado un movimiento total que es un traslación.
+
+Una reflexión respecto a un eje seguida por una reflexión respecto a un segundo eje que no es paralelo al primero,
+da como resultado un movimiento total que es un movimiento de rotación alrededor del punto de intersección de los dos ejes.
+La geometría de las transformaciones (o geometría transformacional) se refiere a una teoría pedagógica acerca de la
+enseñanza de la geometría euclídea que tiene como base el Programa de Erlangen, propuesto por el matemático alemán
+Felix Klein (1849-1925). Enfoca el estudio de la geometría centrándose en el concepto de los grupos de transformaciones 
+geométricas, y en sus propiedades invariantes subyacentes. Se opone al enfoque clásico de la geometría sintética de euclídea, 
+que se centra en la demostración de teoremas.
+
+Por ejemplo, dentro de la geometría de las transformaciones, las propiedades de un triángulo isósceles se deducen del hecho 
+de que una reflexión permite asignarse a sí mismo respecto a una determinada recta. Esto contrasta con las pruebas clásicas
+según los criterios como la congruencia de triángulos.
