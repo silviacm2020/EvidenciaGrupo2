@@ -19,3 +19,6 @@ __________________
 Nuevo cambio:
 Origen
 El primer esfuerzo sistemático para usar las transformaciones como la base de la geometría fue realizado por Felix Klein en el siglo XIX, bajo el nombre de Programa de Erlangen. Durante casi un siglo, este enfoque se limitó a los círculos de investigación matemática. En el siglo xx se hicieron esfuerzos para explotarlo como base de la educación matemática. Andréi Kolmogórov incluyó este enfoque (junto con la teoría de conjuntos) como parte de una propuesta para la reforma de la enseñanza de la geometría en Rusia.2​ Estos esfuerzos culminaron en la década de 1960 con la reforma general de la enseñanza de las matemáticas conocida como el movimiento de la matemática moderna.
+______
+Tercera modificacion a este archivo
+Otra transformación explicada a los jóvenes estudiantes es el escalado de las figuras. Sin embargo, la reflexión respecto a un círculo parece inapropiada para los grados más bajos. Por lo tanto, la geometría de inversión, un estudio más amplio que la geometría de transformación de la escuela primaria, suele reservarse para estudiantes universitarios.
