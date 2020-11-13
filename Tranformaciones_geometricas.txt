@@ -14,3 +14,8 @@ que se centra en la demostración de teoremas.
 Por ejemplo, dentro de la geometría de las transformaciones, las propiedades de un triángulo isósceles se deducen del hecho 
 de que una reflexión permite asignarse a sí mismo respecto a una determinada recta. Esto contrasta con las pruebas clásicas
 según los criterios como la congruencia de triángulos.
+__________________
+
+Nuevo cambio:
+Origen
+El primer esfuerzo sistemático para usar las transformaciones como la base de la geometría fue realizado por Felix Klein en el siglo XIX, bajo el nombre de Programa de Erlangen. Durante casi un siglo, este enfoque se limitó a los círculos de investigación matemática. En el siglo xx se hicieron esfuerzos para explotarlo como base de la educación matemática. Andréi Kolmogórov incluyó este enfoque (junto con la teoría de conjuntos) como parte de una propuesta para la reforma de la enseñanza de la geometría en Rusia.2​ Estos esfuerzos culminaron en la década de 1960 con la reforma general de la enseñanza de las matemáticas conocida como el movimiento de la matemática moderna.
